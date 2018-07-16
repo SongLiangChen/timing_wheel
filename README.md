@@ -1,9 +1,9 @@
 # timing_wheel
-时间轮算法
+时间轮算法go语言实现
 
 ### 用例
 
-```
+```go
 package main
 
 import (
